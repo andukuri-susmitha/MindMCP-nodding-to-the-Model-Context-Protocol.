@@ -35,4 +35,19 @@ This project is a Streamlit-based web application that generates personalized le
     ```bash
     pip install -r requirements.txt
     ```
+## Configuration
+
+Before running the application, you'll need to set up:
+
+1. Google API Key
+2. Pipedream URLs for:
+    - YouTube (required)
+    - Google Drive or Notion (based on your preference)
+
+## Running the Application
+
+To start the application, run:
+
+```bash
+streamlit run app.py
 
