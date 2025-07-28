@@ -50,4 +50,18 @@ To start the application, run:
 
 ```bash
 streamlit run app.py
+The application will be available at http://localhost:8501 by default.
 
+## Usage
+
+1. Enter your Google AI Studio API key and Pipedream URLs in the sidebar.
+2. Select your preferred secondary tool (Drive or Notion).
+3. Enter your learning goal (e.g., "I want to learn python basics in 3 days").
+4. Click **"Generate Learning Path"** to create your personalized learning plan.
+
+## Project Structure
+
+- `app.py` – Main Streamlit application
+- `utils.py` – Utility functions and helper methods
+- `prompt.py` – Prompt template
+- `requirements.txt` – Project dependencies
