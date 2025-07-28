@@ -35,3 +35,4 @@ This project is a Streamlit-based web application that generates personalized le
     ```bash
     pip install -r requirements.txt
     ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7bb341c0-452b-46fc-8404-4af5e8439166" />
